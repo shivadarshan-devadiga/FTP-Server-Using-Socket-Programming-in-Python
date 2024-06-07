@@ -1,7 +1,7 @@
 import socket
 import tkinter as tk
 
-IP = socket.gethostbyname(socket.gethostname())
+IP = socket.gethostbyname(socket.gethostname()) #Replace this with server ip address 
 PORT = 4469
 ADDR = (IP, PORT)
 FORMAT = "utf-8"
