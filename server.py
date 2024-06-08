@@ -7,7 +7,7 @@ PORT = 4469
 ADDR = (IP, PORT)
 SIZE = 1024
 FORMAT = "utf-8"
-SERVER_DATA_PATH = "server_data"
+SERVER_DATA_PATH = "server_data" #path where files are saved on the server
 user_credentials = {
     "alice": "password123",
     "bob": "securepass",
