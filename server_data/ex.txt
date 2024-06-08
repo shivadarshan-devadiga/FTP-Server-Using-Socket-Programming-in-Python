@@ -1,0 +1,1 @@
+This is a simple FTP server using socket programming in python.
